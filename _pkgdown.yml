@@ -1,0 +1,12 @@
+navbar:
+  title: hlpr
+  left:
+    - text: Home
+      href: index.html
+    - text: Reference
+      href: reference/index.html
+    - text: Test Coverage
+      href: report.html
+  right:
+    - icon: fa-gitlab
+      href:  https://gitlab.com/davidbreuer/hlpr/pipelines
